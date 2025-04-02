@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey! Welcome to my GitHub page.
+### My name is Wilson Chen, and I am a current undergraduate attending Quinnipiac University. 
+I'm currently working on a TicTacToe in Java. As of right now, I only know how to code in Java, but I'll learn more coding languages in the future.
 
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
