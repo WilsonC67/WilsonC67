@@ -1,6 +1,13 @@
 ## Hey! Welcome to my GitHub page.
 ### My name is Wilson Chen, and I am a current undergraduate attending Quinnipiac University. 
-I'm currently working on a TicTacToe in Java. As of right now, I only know how to code in Java, but I'll learn more coding languages in the future.
+As of right now, I only know how to code in Java.
+
+
+### I'm currently working on: 
+##### A TicTacToe program.
+##### A program that factors a quadratic equation with the form: ax^2 + bx + c; I will start with only a = 1.
+##### Updating the Maze Solver program.
+##### Hamming Distance calculator.
 
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
