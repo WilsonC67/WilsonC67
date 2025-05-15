@@ -4,8 +4,11 @@ As of right now, I only know how to code in Java.
 
 
 ### I'm currently working on: 
-##### A TicTacToe program.
+##### Making my first 2D game following this YT playlist: https://www.youtube.com/watch?v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
 ##### A program that factors a quadratic equation with the form: ax^2 + bx + c; I will start with only a = 1.
+
+### Other projects I want to get to:
+##### A TicTacToe program.
 ##### Updating the Maze Solver program.
 ##### Hamming Distance calculator.
 
