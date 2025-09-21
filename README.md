@@ -4,12 +4,10 @@ As of right now, I only know how to code in Java.
 
 
 ### I'm currently working on:
+##### A 2D Bee Conquest Game in my Software Development Class! The link is: https://github.com/ThisIsHP64/hive-heroes
 
 ### Other projects I want to get to:
-##### A TicTacToe program.
-##### Updating the Maze Solver program.
-##### Making my first 2D game following this YT playlist: https://www.youtube.com/watch?v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
-##### A program that factors a quadratic equation with the form: ax^2 + bx + c; I will start with only a = 1.
+##### Updating my Swing-GitHub-GUI project for higher functionality and integration between the Java Swing GUI and GitHub. 
 
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
