@@ -1,10 +1,10 @@
 ## Hey! Welcome to my GitHub page.
-### My name is Wilson Chen, and I am a current undergraduate attending Quinnipiac University. 
-As of right now, I only know how to code in Java.
+### My name is Wilson Chen, and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity.
 
 
 ### I'm currently working on:
 ##### A 2D Bee Conquest Game in my Software Development Class! The link is: https://github.com/ThisIsHP64/hive-heroes
+##### Collaborating with Jacob Batson (http://github.com/JacobBatson) with making an iOS Stress Form app.
 
 ### Other projects I want to get to:
 ##### Updating my Swing-GitHub-GUI project for higher functionality and integration between the Java Swing GUI and GitHub. 
