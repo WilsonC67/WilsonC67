@@ -3,11 +3,10 @@
 
 
 ### I'm currently working on:
-##### A 2D Bee Conquest Game in my Software Development Class! The link is: https://github.com/ThisIsHP64/hive-heroes
-##### Collaborating with Jacob Batson (http://github.com/JacobBatson) with making an iOS Stress Form app.
+##### Developing an iOS Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants.
 
-### Other projects I want to get to:
-##### Updating my Swing-GitHub-GUI project for higher functionality and integration between the Java Swing GUI and GitHub. 
+### I've recently finished: 
+##### A 2D Bee Conquest Game in my Software Development Class! The link is: https://github.com/ThisIsHP64/hive-heroes
 
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
