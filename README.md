@@ -1,6 +1,8 @@
 ## Hey! Welcome to my GitHub page.
 ### My name is Wilson Chen, and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Network+Engineering+Enthusiast;Java+Developer)](https://git.io/typing-svg)
+
 ### I love to continuously learn how to program, electronics, and networking.
 
 ### I'm currently working on:
@@ -17,6 +19,8 @@
 ##### An AI Integrated Resume Builder for QU Fall 2025 Hackathon. Link: https://github.com/ChrisF132/HackathonResumeBuilder
 - Along with three other peers, we created a user-friendly JavaFX frontend integrated with Google Gemini to facilitate resume building.
 - Link: https://github.com/ChrisF132/HackathonResumeBuilder
+
+![GitHub Streak](https://streak-stats.demolab.com?user=WilsonC67)
 
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
