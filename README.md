@@ -16,11 +16,15 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 - Along with three other peers, we created a user-friendly JavaFX frontend integrated with Google Gemini to facilitate resume building.
 - Link: https://github.com/ChrisF132/HackathonResumeBuilder
 
+### Connect With Me!
+- LinkedIn: https://www.linkedin.com/in/wilsonc2006/
+
 <br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WilsonC67&theme=github-dark" />
 </p>
+
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
