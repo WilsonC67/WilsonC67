@@ -1,12 +1,22 @@
 ## Hey! Welcome to my GitHub page.
 ### My name is Wilson Chen, and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity.
 
+### I love to continuously learn how to program, electronics, and networking.
 
 ### I'm currently working on:
-##### Developing an iOS Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants.
+##### Creating and Deploying a QU Microservices Cluster in my Computer Networking Class.
+- Link: https://github.com/WilsonC67/CSC340Project1
+##### Developing a Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) to be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
+- Link: https://github.com/WilsonC67/StressFormiOS
 
-### I've recently finished: 
-##### A 2D Bee Conquest Game in my Software Development Class! The link is: https://github.com/ThisIsHP64/hive-heroes
+### Check out some of the projects I've recently finished! 
+##### Hive Heroes: A 2D Bee Conquest Game made in my Software Development (SER225) Class!
+- I practiced using the Agile Software Development Lifecycle with three classmates in the class, as well as an upperclassman Scrum Master.
+- The link is: https://github.com/ThisIsHP64/hive-heroes
+
+##### An AI Integrated Resume Builder for QU Fall 2025 Hackathon. Link: https://github.com/ChrisF132/HackathonResumeBuilder
+- Along with three other peers, we created a user-friendly JavaFX frontend integrated with Google Gemini to facilitate resume building.
+- Link: https://github.com/ChrisF132/HackathonResumeBuilder
 
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
