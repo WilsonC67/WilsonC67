@@ -4,7 +4,8 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 ## I'm currently working on:
 #### Creating and Deploying a QU Microservices Cluster with three peers in my Computer Networking Class.
 - Link: https://github.com/WilsonC67/CSC340Project1
-#### Developing a Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) to be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
+#### Developing a cross-platform Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants. 
+- To be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
 - Link: https://github.com/WilsonC67/StressFormiOS
 
 ## Check out some of the projects I've recently finished! 
@@ -12,7 +13,7 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 - I practiced using the Agile Software Development Lifecycle with three classmates in the class, as well as an upperclassman Scrum Master.
 - The link is: https://github.com/ThisIsHP64/hive-heroes
 
-#### An AI Integrated Resume Builder for QU Fall 2025 Hackathon. Link: https://github.com/ChrisF132/HackathonResumeBuilder
+#### An AI Integrated Resume Builder for QU Fall 2025 Hackathon.
 - Along with three other peers, we created a user-friendly JavaFX frontend integrated with Google Gemini to facilitate resume building.
 - Link: https://github.com/ChrisF132/HackathonResumeBuilder
 
