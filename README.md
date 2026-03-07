@@ -1,4 +1,7 @@
-## Hey! Welcome to my GitHub page. 
+## Hey! Welcome to my GitHub page.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21ABF7&background=34FF2A00&vCenter=true&height=25&lines=CS+%2B+Cybersecurity+at+QU;Curious+about+Computer+Networking)](https://git.io/typing-svg)
+
 My name is Wilson Chen (he/him), and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity. I love to continuously learn how to program, electronics, and networking.
 
 ## I'm currently working on:
