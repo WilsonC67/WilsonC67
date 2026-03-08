@@ -39,6 +39,7 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 #### Creating and Deploying a QU Microservices Cluster with three peers in my Computer Networking Class.
 - We're applying our understanding of Computer Networking + Internet Protocols to build a microservice cluster hosted on 6 AWS EC2 instances.
 - Link: https://github.com/WilsonC67/CSC340Project1
+
 #### Developing a cross-platform Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants. 
 - To be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
 - Link: https://github.com/WilsonC67/StressFormiOS
@@ -53,7 +54,9 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 - Link: https://github.com/ChrisF132/HackathonResumeBuilder
 
 ## Connect With Me!
-- LinkedIn: https://www.linkedin.com/in/wilsonc2006/
+<a href="https://www.linkedin.com/in/wilsonc2006" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+</a>
 
 <details closed>
   <summary><h2>My Stats and Activity</h2></summary>
@@ -64,7 +67,7 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
   </p> 
   
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=WilsonC67&theme=github-dark" />  
+    <img src="https://streak-stats.demolab.com?user=WilsonC67&theme=github-dark"/>  
   </p>
 
   ![Logo](profile-3d-contrib/profile-night-green.svg)
@@ -84,6 +87,7 @@ Cool Open Source Projects Used to Rice this README:
 - README Stats: https://github.com/anuraghazra/github-readme-stats
 - 3D Commit Graph: https://github.com/yoshi389111/github-profile-3d-contrib
 - Snake Animation: https://github.com/Platane/snk
+- Icons from jsdelivr.net
 
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
