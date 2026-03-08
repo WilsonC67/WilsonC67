@@ -18,7 +18,6 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
         <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin:0 10px;" title="Java"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:0 10px;" title="TypeScript"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin:0 10px;" title="Linux"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:0 10px;" title="Git"/>
         </div>
       </td>
@@ -26,7 +25,9 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
   <td align="center">
         <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="margin:0 10px;" title="Kotlin"/>
-          <!-- <img src="https://commons.wikimedia.org/wiki/File:Wireshark_icon.svg" width="40" style="margin:0 10px;" title="Wireshark"/> -->
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin:0 10px;" title="Linux"/>
+          <img src="assets/icons/wireshark.svg" width="40" style="margin:0 10px;" title="Wireshark"/>
+          <!-- Wireshark Icon downloaded from https://hexmos.com/freedevtools/svg_icons/roundcube/wireshark/ -->
       </div>
     </td>
   </tr>
