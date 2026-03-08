@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub page.
+## Hey 👋, I'm Wilson! Welcome to my GitHub page.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21ABF7&background=34FF2A00&vCenter=true&height=25&lines=CS+%2B+Cybersecurity+at+QU;Curious+about+Computer+Networking)](https://git.io/typing-svg)
 
@@ -6,6 +6,7 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 
 ## I'm currently working on:
 #### Creating and Deploying a QU Microservices Cluster with three peers in my Computer Networking Class.
+- We're applying our understanding of Computer Networking + Internet Protocols to build a microservice cluster hosted on 6 AWS EC2 instances.
 - Link: https://github.com/WilsonC67/CSC340Project1
 #### Developing a cross-platform Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants. 
 - To be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
