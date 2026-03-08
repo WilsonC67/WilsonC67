@@ -59,7 +59,7 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 </a>
 
 <details closed>
-  <summary><h2>My Stats and Activity</h2></summary>
+  <summary><h2>My Stats and Activity (click me to expand!)</h2></summary>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WilsonC67's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=WilsonC67&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -82,14 +82,14 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
   </picture>
 </details>
 
-<details open>
-  <summary><h2>Cool Open Source Projects Used to Rice this README</h2></summary>
+<details closed>
+  <summary><h2>Cool Open Source Projects Used to Rice this README (click me to expand!)</h2></summary>
 
   <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:10px;">
     <!-- Dynamic Line Typing -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank" style="text-decoration:none;">
       <div style="padding:10px 16px; border:1px solid #ccc; border-radius:8px; text-align:center;">
-        Dynamic Line Typing
+        Self-Typing Lines SVG
       </div>
     </a>
     <!-- README Stats -->
