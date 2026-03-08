@@ -31,6 +31,15 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 
 ![Logo](profile-3d-contrib/profile-night-green.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/WilsonC67/WilsonC67/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/WilsonC67/WilsonC67/output/github-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/WilsonC67/WilsonC67/output/github-snake.svg">
+</picture>
+
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
