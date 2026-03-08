@@ -86,32 +86,32 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
   <summary><h2>Cool Open Source Projects Used to Rice this README (click me to expand!)</h2></summary>
 
   <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:10px;">
-    <!-- Dynamic Line Typing -->
-    <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank" style="text-decoration:none;">
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank" style="text-decoration:none;">
       <div style="padding:10px 16px; border:1px solid #ccc; border-radius:8px; text-align:center;">
         Self-Typing Lines SVG
       </div>
     </a>
-    <!-- README Stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration:none;">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration:none;">
       <div style="padding:10px 16px; border:1px solid #ccc; border-radius:8px; text-align:center;">
         README Stats
       </div>
     </a>
-    <!-- 3D Commit Graph -->
-    <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" style="text-decoration:none;">
+
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" style="text-decoration:none;">
       <div style="padding:10px 16px; border:1px solid #ccc; border-radius:8px; text-align:center;">
         3D Commit Graph
       </div>
     </a>
-    <!-- Snake Animation -->
-    <a href="https://github.com/Platane/snk" target="_blank" style="text-decoration:none;">
+
+  <a href="https://github.com/Platane/snk" target="_blank" style="text-decoration:none;">
       <div style="padding:10px 16px; border:1px solid #ccc; border-radius:8px; text-align:center;">
         Snake Animation
       </div>
     </a>
-    <!-- jsdelivr.net Icons -->
-    <a href="https://github.com/devicons/devicon" target="_blank" style="text-decoration:none;">
+
+  <a href="https://github.com/devicons/devicon" target="_blank" style="text-decoration:none;">
       <div style="padding:10px 16px; border:1px solid #ccc; border-radius:8px; text-align:center;">
         DevIcons
       </div>
