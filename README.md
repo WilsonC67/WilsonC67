@@ -5,31 +5,34 @@
 My name is Wilson Chen (he/him), and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity. I love to continuously learn programming, computer networking, and fiddle with electronics.
 
 <details open>
-
   <summary><h2>What I Use + Currently Learning</h2></summary>
 
   <table width="100%">
     <tr>
-  <td align="center" width="50%">
-  
-  ### I Use:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</td>
-  
-  <td align="center" width="50%">
-  
-  ### Currently Learning
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right:10px;"/>
-  
-  </td>
-  </tr>
-  </table>
-  </details>
+      <th>Languages & Tools</th>
+      <th>Currently Learning</th>
+    </tr>
 
+  <tr>
+    <td align="center">
+       <div style="white-space:nowrap;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin:0 6px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:0 6px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin:0 6px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:0 6px;"/>
+      </div>
+    </td>
+
+  <td align="center">
+     <div style="white-space:nowrap;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin:0 6px;"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="margin:0 6px;"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</details>
 
 ## I'm currently working on:
 #### Creating and Deploying a QU Microservices Cluster with three peers in my Computer Networking Class.
