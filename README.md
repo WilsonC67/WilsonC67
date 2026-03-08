@@ -14,22 +14,22 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
     </tr>
 
   <tr>
-    <td align="center">
-       <div style="white-space:nowrap;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin:0 6px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:0 6px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin:0 6px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:0 6px;"/>
-      </div>
-    </td>
-
-  <td align="center">
-     <div style="white-space:nowrap;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin:0 6px;"/>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="margin:0 6px;"/>
+      <td align="center">
+        <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin:0 10px;" title="Java"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:0 10px;" title="TypeScript"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="margin:0 10px;" title="Linux"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:0 10px;" title="Git"/>
         </div>
       </td>
-    </tr>
+
+  <td align="center">
+        <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="margin:0 10px;" title="Kotlin"/>
+          <!-- <img src="https://commons.wikimedia.org/wiki/File:Wireshark_icon.svg" width="40" style="margin:0 10px;" title="Wireshark"/> -->
+      </div>
+    </td>
+  </tr>
   </table>
 
 </details>
