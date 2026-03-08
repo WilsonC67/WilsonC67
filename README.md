@@ -29,6 +29,8 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
   <img src="https://streak-stats.demolab.com?user=WilsonC67&theme=github-dark" />
 </p>
 
+![Logo](profile-3d-contrib/profile-night-green.svg)
+
 <!--
 **WilsonC67/WilsonC67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
