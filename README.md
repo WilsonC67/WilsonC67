@@ -17,7 +17,6 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
       <td align="center">
         <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin:0 10px;" title="Java"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:0 10px;" title="TypeScript"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:0 10px;" title="Git"/>
         </div>
       </td>
