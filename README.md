@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21ABF7&background=34FF2A00&vCenter=true&height=25&lines=CS+%2B+Cybersecurity+at+QU;Curious+about+Computer+Networking)](https://git.io/typing-svg)
 
-My name is Wilson Chen (he/him), and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity. I love to continuously learn programming, computer networking, and fiddle with electronics.
+My name is Wilson Chen (he/him), and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity. I love to continuously learn programming, computer networking, and fiddle with hardware.
 
 <details open>
   <summary><h2>What I Use + Currently Learning</h2></summary>
@@ -34,7 +34,10 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 
 </details>
 
-## I'm currently working on:
+### I'm currently interning at Vancord, a Managed Service Provider, learning all about Active Directory, Group Policy, Microsoft Cloud, and more.
+
+## Check out some of the projects I've finished! 
+
 #### Creating and Deploying a QU Microservices Cluster with three peers in my Computer Networking Class.
 - We're applying our understanding of Computer Networking + Internet Protocols to build a microservice cluster hosted on 6 AWS EC2 instances.
 - Link: https://github.com/WilsonC67/CSC340Project1
@@ -43,7 +46,6 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 - To be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
 - Link: https://github.com/WilsonC67/StressFormiOS
 
-## Check out some of the projects I've recently finished! 
 #### Hive Heroes: A 2D Bee Conquest Game made in my Software Development (SER225) Class!
 - I practiced using the Agile Software Development Lifecycle with three classmates and an upperclassman Scrum Master.
 - The link is: https://github.com/ThisIsHP64/hive-heroes
