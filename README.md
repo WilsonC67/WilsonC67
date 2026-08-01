@@ -4,7 +4,7 @@
 
 My name is Wilson Chen (he/him), and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity. I love to continuously learn programming, computer networking, and fiddle with hardware.
 
-<details open>
+<!-- <details open>
   <summary><h2>What I Use + Currently Learning</h2></summary>
 
   <table width="100%">
@@ -32,9 +32,9 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
   </tr>
   </table>
 
-</details>
+</details> -->
 
-### I'm currently interning at Vancord, a Managed Service Provider, learning all about Active Directory, Group Policy, Microsoft Cloud, and more.
+### I recently completed an internship at Vancord, a Managed Service Provider, from which I learned about Active Directory, Group Policy, Microsoft Cloud, and more.
 
 ## Check out some of the projects I've finished! 
 
