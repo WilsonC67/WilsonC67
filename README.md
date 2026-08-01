@@ -14,7 +14,7 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
 
 #### Developing a cross-platform Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants. 
 - To be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
-- Link: https://github.com/WilsonC67/StressFormiOS
+- Link: https://github.com/WilsonC67/StressFormiOS (now privated)
 
 #### Hive Heroes: A 2D Bee Conquest Game made in my Software Development (SER225) Class!
 - I practiced using the Agile Software Development Lifecycle with three classmates and an upperclassman Scrum Master.
