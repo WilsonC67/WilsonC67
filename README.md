@@ -4,7 +4,32 @@
 
 My name is Wilson Chen (he/him), and I am a current undergraduate attending Quinnipiac University, pursuing the 3+1 Dual-Degree Program in Computer Science and Cybersecurity. I love to continuously learn programming, computer networking, and fiddle with hardware.
 
-<!-- <details open>
+### I recently completed an internship at Vancord, a Managed Service Provider, from which I learned about Active Directory, Group Policy, Microsoft Cloud, and more.
+
+## Check out some of the projects I've finished! 
+
+#### Creating and Deploying a QU Microservices Cluster with three peers in my Computer Networking Class.
+- We're applying our understanding of Computer Networking + Internet Protocols to build a microservice cluster hosted on 6 AWS EC2 instances.
+- Link: https://github.com/WilsonC67/CSC340Project1
+
+#### Developing a cross-platform Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants. 
+- To be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
+- Link: https://github.com/WilsonC67/StressFormiOS
+
+#### Hive Heroes: A 2D Bee Conquest Game made in my Software Development (SER225) Class!
+- I practiced using the Agile Software Development Lifecycle with three classmates and an upperclassman Scrum Master.
+- The link is: https://github.com/ThisIsHP64/hive-heroes
+
+#### HackathonResumeBuilder: An AI Integrated Resume Builder for the QU Fall 2025 Hackathon.
+- Along with three other peers, we created a user-friendly JavaFX frontend integrated with Google Gemini to facilitate resume building.
+- Link: https://github.com/ChrisF132/HackathonResumeBuilder
+
+## Connect With Me!
+<a href="https://www.linkedin.com/in/wilsonc2006" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+</a>
+
+<details open>
   <summary><h2>What I Use + Currently Learning</h2></summary>
 
   <table width="100%">
@@ -32,33 +57,7 @@ My name is Wilson Chen (he/him), and I am a current undergraduate attending Quin
   </tr>
   </table>
 
-</details> -->
-
-### I recently completed an internship at Vancord, a Managed Service Provider, from which I learned about Active Directory, Group Policy, Microsoft Cloud, and more.
-
-## Check out some of the projects I've finished! 
-
-#### Creating and Deploying a QU Microservices Cluster with three peers in my Computer Networking Class.
-- We're applying our understanding of Computer Networking + Internet Protocols to build a microservice cluster hosted on 6 AWS EC2 instances.
-- Link: https://github.com/WilsonC67/CSC340Project1
-
-#### Developing a cross-platform Stress Predictor with Hunter Pageau (https://github.com/ThisIsHP64) as Undergraduate Research Assistants. 
-- To be used in a ML research study exploring the relationship between Screen Time and magnitude of stress.
-- Link: https://github.com/WilsonC67/StressFormiOS
-
-#### Hive Heroes: A 2D Bee Conquest Game made in my Software Development (SER225) Class!
-- I practiced using the Agile Software Development Lifecycle with three classmates and an upperclassman Scrum Master.
-- The link is: https://github.com/ThisIsHP64/hive-heroes
-
-#### HackathonResumeBuilder: An AI Integrated Resume Builder for the QU Fall 2025 Hackathon.
-- Along with three other peers, we created a user-friendly JavaFX frontend integrated with Google Gemini to facilitate resume building.
-- Link: https://github.com/ChrisF132/HackathonResumeBuilder
-
-## Connect With Me!
-<a href="https://www.linkedin.com/in/wilsonc2006" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
-</a>
-
+</details>
 <details closed>
   <summary><h2>My Stats and Activity (click me to expand!)</h2></summary>
 
